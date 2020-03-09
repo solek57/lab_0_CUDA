@@ -1,4 +1,4 @@
-# Matrix multiplication
+# Lab 0
 
 ## Overview
 
